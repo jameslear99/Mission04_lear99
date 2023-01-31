@@ -1,0 +1,35 @@
+﻿body {
+
+}
+
+img{
+    width: 700px;
+    height: auto;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+    font-family: 'Acumin Pro';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgoldenrodyellow !important;
+    padding: 50px;
+}
+
+.paragraph {
+    width: 700px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.topBanner {
+    background-color: gray !important;
+    padding-left: 500px;
+    padding-right: 500px;
+}
